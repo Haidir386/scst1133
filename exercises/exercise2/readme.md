@@ -1,11 +1,26 @@
+# Hi there, I'm Mohamad Haidir Bin Md Zamri 👋
 
-# SCST1133 Exercises
+Welcome to my GitHub profile! I am a beginner developer currently learning Git, GitHub, and software development.
 
-Name:  Mohamad Haidir Bin Md Zamri
-Matric Number:  A26CS0176
-Section:  2
-Course: Data Engineering Ecosystem
+---
 
-## About This Repository
+## 🚀 About Me
+- 🔭 **Currently learning:** Git, GitHub, and programming fundamentals.
+- 🎯 **Goals:** Build cool projects and improve my coding skills day by day.
+- 💬 **Ask me about:** Beginner programming topics or learning resources.
 
-This repository contains my exercises for SCST1133 Data Engineering Ecosystem.
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** HTML, CSS, JavaScript *(or add your languages here)*
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📬 Connect with Me
+- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
+- **Email:** your.email@example.com
+
+---
+
+> *"Every expert was once a beginner."*
