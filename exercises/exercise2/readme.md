@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a beginner developer currently learning Git, 
 
 ## 📬 Connect with Me
 - **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **Email:** mohamadhaidir@graduate.utm.my
 
 ---
 
